@@ -19,3 +19,6 @@ facts.pop
 # => "unfalse"
 
 # examples of index positions are months[0]= January, facts[3]= unfalse, venue_capacities[2]= 300
+
+# another example of an array method is the delete method which deletes an element from a given array by name (https://ruby-doc.org/core-2.6.3/Array.html#method-i-delete). 
+# as an example, months.delete("February") would return => ["January","March"."April"]
