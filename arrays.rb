@@ -17,3 +17,5 @@ facts = ["true","false","untrue","unfalse"]
 facts.pop
 # pop method permanently removes last element of array
 # => "unfalse"
+
+# examples of index positions are months[0]= January, facts[3]= unfalse, venue_capacities[2]= 300
